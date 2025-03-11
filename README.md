@@ -1,1 +1,1 @@
-# **khac-class9-physics-india**
+# **khac-class9-physics**
